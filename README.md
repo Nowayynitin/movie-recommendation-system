@@ -44,6 +44,14 @@ movie-recommender-system/
 └── docs/
 ```
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home_page.png)
+
+### Recommendations
+![Recommendations](screenshots/recommendations.png)
+
 ## ⚙️ Installation
 
 Clone the repository:
